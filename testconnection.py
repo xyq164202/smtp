@@ -2,8 +2,8 @@ import smtplib
 import base64
 
 # Gmail账户信息
-gmail_user = 'frankxuearthlab01@gmail.com'
-gmail_password = 'dkugonkttfetkxla'
+gmail_user = 'xxx@gmail.com'
+gmail_password = 'xxx'
 
 # SMTP服务器信息
 smtp_server = "smtp.gmail.com"
